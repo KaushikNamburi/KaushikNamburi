@@ -1,16 +1,15 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Kaushik Namburi</h1>
+<h3 align="center">A college student at Penn State</h3>
 
-<!--
-**KaushikNamburi/KaushikNamburi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=KaushikNamburi&label=Profile%20views&color=0e75b6&style=flat" alt="KaushikNamburi" /> </p>
 
-Here are some ideas to get you started:
+- 💬 Ask me about **: Python, Java **
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me **kaushiknvn02@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/kaushik-namburi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="garray aneesh" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/u/Kaushik_Namburi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="KaushikNamburi" height="30" width="40" /></a>
+</p>
+
